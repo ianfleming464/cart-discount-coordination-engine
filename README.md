@@ -105,21 +105,17 @@ User Action → EventManager → [Specialized Handlers] → CartUtils → CartCa
 
 ## Documentation
 
-### 📖 [Technical Documentation](/docs/)
-- [System Architecture](/docs/architecture/system-overview.md) - High-level design patterns
-- [Allocation Mathematics](/docs/algorithms/allocation-mathematics.md) - Core mathematical approaches
-- [Complex Scenarios](/docs/scenarios/combination-logic.md) - Advanced use case handling
-- [Deployment Guide](/docs/implementation/deployment-guide.md) - Multi-platform deployment
+### 📖 Technical Deep-Dive
+- [Allocation Algorithms](/docs/allocation-algorithms.md) - Mathematical distribution strategies and precision handling
 
-### 💻 [Code Examples](/examples/)
-- [Allocation Algorithms](/examples/allocation-algorithms/) - Mathematical distribution patterns
-- [Event Coordination](/examples/event-patterns/) - Event-driven architecture patterns  
-- [Integration Patterns](/examples/integration-examples/) - Platform compatibility approaches
+### 💻 Code Examples
+- [Allocation Example](/examples/proportional-allocation.js) - Generalized implementation patterns
 
-### 🔧 [Debugging & Diagnostics](/docs/implementation/debugging-guide.md)
-- Comprehensive troubleshooting guide
-- Diagnostic commands and logging strategies
-- Common edge cases and solutions
+### Key Technical Concepts
+- **Proportional Distribution**: Mathematical allocation across heterogeneous cart items
+- **Rounding Reconciliation**: Precision handling to maintain subtotal accuracy
+- **Event-Driven Coordination**: Pub/sub architecture for complex state management
+- **Platform Integration**: Coordination patterns for incompatible e-commerce systems
 
 ## Key Achievements
 
