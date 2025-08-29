@@ -157,8 +157,8 @@ This repository contains architectural patterns, algorithms, and implementation 
 
 ---
 
-**Technical Contact**: [Ian Fleming](ianfleming@gmail.com)  
-**Portfolio**: [ianfleming.dev](https://ianflemingdeveloper.com)  
+**Technical Contact**: [Ian Fleming - ianfleming@gmail.com]
+**Portfolio**: [ianfleming](https://ianflemingdeveloper.com)  
 **Case Study**: [Discount Coordination System](https://ianflemingdeveloper.com/discount-system-case-study.html)
 
 ---
