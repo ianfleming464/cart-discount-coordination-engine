@@ -1,4 +1,4 @@
-# Cart Discount Coordination Engine
+# Cart Discount Coordination Engine Documentation
 
 > **Advanced e-commerce discount coordination system enabling complex promotional scenarios across incompatible platforms**
 
