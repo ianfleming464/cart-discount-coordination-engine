@@ -109,7 +109,7 @@ User Action → EventManager → [Specialized Handlers] → CartUtils → CartCa
 - [Allocation Algorithms](allocation-algorithms.md) - Mathematical distribution strategies and precision handling
 
 ### 💻 Code Examples
-- [Allocation Example](proportional-allocation.js) - Generalized implementation patterns
+- [Allocation Example](allocation_example.js) - Generalized implementation patterns
 
 ### Key Technical Concepts
 - **Proportional Distribution**: Mathematical allocation across heterogeneous cart items
